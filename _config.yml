@@ -15,7 +15,7 @@ author :
   github : TimovNiedek
   feedburner : nil
 
-production_url : https://github.com/TimovNiedek/simple_site
+production_url : https://github.com/TimovNiedek/My-First-Site
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -48,7 +48,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : https://github.com/TimovNiedek/simple_site
+  BASE_PATH : https://github.com/TimovNiedek/My-First-Site
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
